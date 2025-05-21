@@ -42,7 +42,7 @@ Crea un archivo .env en la raíz del proyecto y agrega tu clave de API de VirusT
 VT_API_KEY=tu_clave_de_api
 ```
 ### 4. Ejecutar con Docker
-Para ejecutar la aplicación utilizando Docker, asegúrate de tener Docker y Docker Compose instalados. Luego, ejecuta el siguiente comando en la raíz del proyecto:
+Para ejecutar la aplicación utilizando Docker, asegúrate de tener Docker y Docker Compose instalados. Asegurate de setear el valor del api key de virustoal  Luego, ejecuta el siguiente comando en la raíz del proyecto:
 
 ``` bash
 docker-compose up --build
