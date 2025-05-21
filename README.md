@@ -23,7 +23,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 Clona este repositorio en tu máquina local:
 
 ``` bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/jczamudio/prueba_tech.git
 cd Prueba_tech
 ```
 
